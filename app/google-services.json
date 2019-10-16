@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "175256607054",
+    "firebase_url": "https://myapp-luezoid.firebaseio.com",
+    "project_id": "myapp-luezoid",
+    "storage_bucket": "myapp-luezoid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175256607054:android:0fc153662db146f496661f",
+        "android_client_info": {
+          "package_name": "com.faisaljaved.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175256607054-meb04pq62tp8ad53001upgc2mfs95283.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdBn7i0EGjY2cWRmNZ-F6gz-AfSvEf0pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175256607054-meb04pq62tp8ad53001upgc2mfs95283.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
