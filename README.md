@@ -1,6 +1,6 @@
 # MyApp-Luezoid-Tech
 
-Download APk here- <a href="https://github.com/syedfaisaljaved/MyApp-Luezoid-Tech/blob/master/app-debug.apk"> Click To Download </a>
+Download APk here- <a href="app-debug.apk"> Click To Download </a>
 
 View Screenshot In the Images Folder
 
